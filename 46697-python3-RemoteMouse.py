@@ -6,7 +6,6 @@
 # Tested on: Windows 10
 
 #Remote Mouse 3.008 fails to check for authenication and will execute any command any machine gives it
-#This script pops calc as proof of concept (albeit a bit slowly)
 #It also has an index of the keycodes the app uses to communicate with the computer if you want to mess around with it yourself
 
 # Adjusted to Python3 by Biepa
